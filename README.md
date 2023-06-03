@@ -19,7 +19,7 @@
 g++ main.cpp -o main
 5. Chạy chương trình bằng câu lệnh sau:
 ./main
-6. Kết quả sẽ được ghi vào các tệp đầu ra trong thư mục `output` và được đặt tên theo quy tắc `gc_n_mtomau.txt`, trong đó `n` và `m` là số đỉnh và số cạnh tương ứng của đồ thị đầu vào.
+6. Kết quả sẽ được ghi vào các tệp đầu ra trong thư mục `output` và được đặt tên theo quy tắc `gc_n_mtomau.txt`, trong đó `n` và `m` là số đỉnh và số thứ tự tương ứng của đồ thị đầu vào.
 7. Kết quả cũng sẽ được kiểm tra bằng chương trình `check_valid_coloring.exe`. Hãy đảm bảo rằng bạn đã đặt file `check_valid_coloring.exe` trong thư mục `output`.
 (File mã nguồn của chương trình `check_valid_coloring.exe` được cung cấp bởi thầy Trần Vĩnh Đức-HUST)
 
@@ -29,14 +29,3 @@ Github: https://github.com/vunhatquang49/hackrathon_color.git
 Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề nào, vui lòng tạo một vấn đề mới trong phần "Issues" của dự án này. 
 
 Lưu ý: Đảm bảo rằng bạn đã có file `check_valid_coloring.exe`, các tệp test case `gc`, chương trình thực thi `main`  được đặt chung trong thư mục `output`. Bạn có thể download toàn bộ thư mục trong đường dẫn sau : https://bom.so/output, chúng tôi đã thiết lập sẵn vị trí các file output và check_valid. Chúng tôi khuyến nghị dùng VS code để chạy chương trình. (Các fie trong input `gc` được cung cấp bởi thầy Trần Vĩnh Đức-HUST)
-
-
-## Đóng góp
-
-Nếu bạn muốn đóng góp vào dự án này, hãy làm theo các bước sau:
-
-1. Fork dự án
-2. Tạo một nhánh tính năng mới
-3. Commit các thay đổi của bạn
-4. Push nhánh của bạn lên repo
-5. Tạo một yêu cầu kéo mới (Pull Request) trên GitHub
