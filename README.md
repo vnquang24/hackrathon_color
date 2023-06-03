@@ -32,7 +32,7 @@ Lưu ý: Đảm bảo rằng bạn đã có file `check_valid_coloring.exe`, cá
 
 Nếu bạn muốn đóng góp vào dự án này, hãy làm theo các bước sau:
 
-1. Fork dự án (https://github.com/yourusername/coloring/fork)
+1. Fork dự án
 2. Tạo một nhánh tính năng mới (`git checkout -b feature/feature_name`)
 3. Commit các thay đổi của bạn (`git commit -am 'Add some feature'`)
 4. Push nhánh của bạn lên kho chứa (`git push origin feature/feature_name`)
