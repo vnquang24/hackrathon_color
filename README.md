@@ -26,6 +26,7 @@ g++ main.cpp -o main
 ## Câu hỏi và hỗ trợ
 
 Github: https://github.com/vunhatquang49/hackrathon_color.git
+
 Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề nào, vui lòng tạo một vấn đề mới trong phần "Issues" của dự án này. 
 
 Lưu ý: Đảm bảo rằng bạn đã có file `check_valid_coloring.exe`, các tệp test case `gc`, chương trình thực thi `main`  được đặt chung trong thư mục `output`. Bạn có thể download toàn bộ thư mục trong đường dẫn sau : https://bom.so/output, chúng tôi đã thiết lập sẵn vị trí các file output và check_valid. Chúng tôi khuyến nghị dùng VS code để chạy chương trình. (Các fie trong input `gc` được cung cấp bởi thầy Trần Vĩnh Đức-HUST)
